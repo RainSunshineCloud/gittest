@@ -1,2 +1,2 @@
-this is anothe merge test!
+this is anote merge test!
 
