@@ -1,2 +1,2 @@
-this is another merge test!
+this is a merge test!
 
